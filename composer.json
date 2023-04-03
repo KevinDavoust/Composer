@@ -10,5 +10,7 @@
             "name": "kevin davoust"
         }
     ],
-    "require": {}
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
 }
